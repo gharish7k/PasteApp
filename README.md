@@ -151,17 +151,17 @@ React Router is used for navigation between:
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-_Add screenshot here_
+![Home Page](public/screenshots/home.png)
 
-### Pastes Page
+### 📋 All Pastes
 
-_Add screenshot here_
+![All Pastes](public/screenshots/pastes.png)
 
-### View Paste
+### 👁️ View Paste
 
-_Add screenshot here_
+![View Paste](public/screenshots/view-pastes.png)
 
 ## ⚙️ Installation & Setup
 
